@@ -1,0 +1,3 @@
+python-telegram-bot[job_queue]
+SQLAlchemy
+anki-sm-2
